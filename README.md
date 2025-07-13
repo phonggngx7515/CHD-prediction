@@ -1,1 +1,1 @@
-# Project for predicting the possibility of CHD by INNOV8 team
+This project entails the development of a machine learning model to predict the incidence of coronary heart disease (CHD) in patients, based on data related to biological parameters and lifestyle habits.
